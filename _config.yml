@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Alceu Eilert Nascimento | Ciência de Dados  "
+title                    : "Ciência de Dados"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
