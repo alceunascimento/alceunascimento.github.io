@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "alceu@ufpr.br"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  substack         : "https://alceu.substack.com/" 
+  substack         : "alceu" 
   wikipedia        :
 
 
