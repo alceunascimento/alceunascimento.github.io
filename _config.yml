@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Alceu Eilert Nascimento / Ciência de Dados  "
+locale                   : "pt-BR"
+title                    : "Alceu Eilert Nascimento | Ciência de Dados  "
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
