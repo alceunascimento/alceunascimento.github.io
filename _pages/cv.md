@@ -9,51 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educação
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Graduação em Direito, Pontifícia Universidade Católica do Paraná, 2002
+* Graduação em Economia, Universidade Federal do Paraná, 2023
+* Mestrado em Economia, Universidade Federal do Paraná, 2026 (expected)
+* Mestrado em Direito, Fundação Getúlio Vargas, 2026 (expected)
+* Pós-graduação em Ciência de Dados, Universidade Federal do Paraná, 2025
 
-Work experience
+Habilidades
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Análise Quantitativa: Proficiência em modelagem econométrica (séries temporais, dados em painel), análise de sobrevivência e métodos estatísticos para inferência causal em pesquisas empíricas no campo do Direito e das Finanças.
+* Programação para Pesquisa: Domínio de R (Tidyverse, Survival, Shiny) e Python (Pandas, Statsmodels, Scikit-learn) para manipulação de grandes bases de dados (big data), análise estatística e visualização de resultados.
+* Teoria Econômica e Financeira: Microeconomia, teoria financeira (precificação de ativos, finanças corporativas) e teoria da regulação, aplicando estes frameworks à análise de problemas jurídicos.
+* Pesquisa Jurídica Empírica: Experiência na coleta, tratamento e análise de dados judiciais e regulatórios (DataJud, CVM, etc.) para a produção de estudos empíricos sobre o sistema de justiça e mercados regulados.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Serviços e Liderança
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coordenador de Dados e Estatísticas, Ordem dos Advogados do Brasil, Seção do Paraná.
+* Diretor de Projetos da Comissão de Direito Imobiliário, Ordem dos Advogados do Brasil, Seção do Paraná.
+* Diretor de Dados do PROEX "Diálogos com o Extrajudicial", Ordem dos Advogados do Brasil, Seção do Paraná.
 
-Publications
+
+Publicações
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Eventos
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Ensino
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

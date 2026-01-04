@@ -9,8 +9,8 @@
 locale                   : "pt-BR"
 title                    : "Ciência de Dados"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Alceu Eilert Nascimento"
+description              : &description "Direito, Economia e Tecnologia"
 url                      : https://alceunascimento.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alceunascimento/alceunascimento.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alceu Eilert Nascimento"
   avatar           : "profile1.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Sou um pesquisador dedicado ao estudo de Direito e Economia, com ênfase em regulação e finanças."
   location         : "Curitiba, Paraná, Brasil"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
