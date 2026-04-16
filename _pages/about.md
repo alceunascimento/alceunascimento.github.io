@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Advogado, economista e cientista de dados. Curitiba, PR.
+Advogado, economista e cientista de dados.
 
 Atuo na interseção entre direito, economia e o mundo real, o ponto onde os problemas de mercado são sistematicamente mal resolvidos e mal precificados, dada a natureza bem particular das instituições brasileiras.
 
