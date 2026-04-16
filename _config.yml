@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Ciência de Dados"
-title_separator          : "-"
+title                    : "Alceu Nascimento"
+title_separator          : "·"
 name                     : &name "Alceu Eilert Nascimento"
-description              : &description "Direito, Economia e Tecnologia"
+description              : &description "Advogado · Economista · Cientista de Dados"
 url                      : https://alceunascimento.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alceunascimento/alceunascimento.github.io"
@@ -82,40 +82,12 @@ analytics:
 author:
   name             : "Alceu Eilert Nascimento"
   avatar           : "profile1.png"
-  bio              : "Sou um pesquisador dedicado ao estudo de Direito e Economia, com ênfase em regulação e finanças."
+  bio              : "Advogado, economista e cientista de dados. Direito encontra dados."
   location         : "Curitiba, Paraná, Brasil"
-  employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "alceu@ufpr.br"
-  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  email            : "alceuenascimento@gmail.com"
   github           : "alceunascimento"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         : "https://www.linkedin.com/in/alceunascimento/"
-  orcid            : # "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : # "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  substack         : "alceu" 
-  wikipedia        :
+  substack         : "alceu"
 
 
 # Reading Files

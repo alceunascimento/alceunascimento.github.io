@@ -1,18 +1,10 @@
 # Authors
 
-Name Name:
+Alceu Eilert Nascimento:
   name        : "Alceu Eilert Nascimento"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  uri         : "https://alceunascimento.github.io"
+  email       : "alceuenascimento@gmail.com"
+  bio         : "Advogado, economista e cientista de dados."
+  avatar      : "profile1.png"
+  github      : "alceunascimento"
+  linkedin    : "https://www.linkedin.com/in/alceunascimento/"

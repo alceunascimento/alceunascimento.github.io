@@ -1,14 +1,27 @@
 ---
 permalink: /
-title: "Introdução"
-excerpt: "Sobre"
+title: "Alceu Eilert Nascimento"
+excerpt: "Advogado, economista e cientista de dados. Curitiba, PR."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Bem-vindo à minha página acadêmica. Sou um pesquisador dedicado ao estudo da Análise Econômica do Direito (Law & Economics), com ênfase em finanças e regulação. Minha formação multidisciplinar em Direito, Economia e Ciência de Dados me permite empregar uma abordagem quantitativa e empírica para investigar questões complexas sobre a eficiência do sistema de justiça e o impacto da regulação financeira.
+Advogado, economista e cientista de dados. Curitiba, PR.
 
-Atualmente, minha pesquisa explora como os procedimentos jurídicos podem ser otimizados através de uma perspectiva regulatória e quais são os efeitos de diferentes modelos de regulação no mercado financeiro. Este espaço serve como um portfólio para compartilhar minhas publicações, projetos de pesquisa em andamento, atividades de ensino e outras contribuições para o debate acadêmico.
+Atuo na interseção entre direito, economia e análise quantitativa — o ponto onde os problemas do mercado jurídico-econômico brasileiro são sistematicamente mal resolvidos e mal precificados.
+
+---
+
+**[Tessera](https://tessera.tec.br)** — consultoria em dados, jurimetria e inteligência artificial aplicada ao direito. Projetos quantitativos, pipelines judiciais, produtos LegalTech.
+
+**[Concerne](https://concerne.com.br)** — advisory e gestão de projetos imobiliários e florestais no Paraná.
+
+**Advocacia** — contenciosa e consultiva, com ênfase em direito econômico, recuperações judiciais e extrajudiciais e reestruturações.
+
+---
+
+Projetos técnicos e análises em [legaldata.tec.br](https://legaldata.tec.br).  
+Textos e ensaios no [Substack](https://alceunascimento.substack.com).
 
