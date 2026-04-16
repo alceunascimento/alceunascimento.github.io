@@ -10,18 +10,19 @@ redirect_from:
 
 Advogado, economista e cientista de dados. Curitiba, PR.
 
-Atuo na interseção entre direito, economia e análise quantitativa — o ponto onde os problemas do mercado jurídico-econômico brasileiro são sistematicamente mal resolvidos e mal precificados.
+Atuo na interseção entre direito, economia e o mundo real, o ponto onde os problemas de mercado são sistematicamente mal resolvidos e mal precificados, dada a natureza bem particular das instituições brasileiras.
 
 ---
 
-**[Tessera](https://tessera.tec.br)** — consultoria em dados, jurimetria e inteligência artificial aplicada ao direito. Projetos quantitativos, pipelines judiciais, produtos LegalTech.
-
 **[Concerne](https://concerne.com.br)** — advisory e gestão de projetos imobiliários e florestais no Paraná.
 
-**Advocacia** — contenciosa e consultiva, com ênfase em direito econômico, recuperações judiciais e extrajudiciais e reestruturações.
+**[Tessera](https://tessera.tec.br)** — consultoria em dados, jurimetria e inteligência artificial aplicada ao direito. Projetos quantitativos, pipelines judiciais, produtos LegalTech.
+
+
+**[Advocacia](www.alceunascimento.com.br)** — contenciosa e consultiva, com ênfase em direito econômico, recuperações judiciais e extrajudiciais e reestruturações.
 
 ---
 
 Projetos técnicos e análises em [legaldata.tec.br](https://legaldata.tec.br).  
-Textos e ensaios no [Substack](https://alceunascimento.substack.com).
+Textos e ensaios em _Dinheiro dos Outros_ no [Substack](https://alceu.substack.com).
 
